@@ -32,10 +32,7 @@ while len(guessed_states) < 50:
             guessed_states.append(answer_state)
         # print(guessed_states)
 
-learn_lst = []
-for state in state_lst:
-    if state not in guessed_states:
-        learn_lst.append(state)
+learn_lst = [state for state in state_lst if state not in guessed_states]
 # print(learn_lst)
 
 for state in learn_lst:
