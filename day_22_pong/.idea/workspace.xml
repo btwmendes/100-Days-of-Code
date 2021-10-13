@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efcb896-75e1-4547-ae30-94da7d4f44e5" name="Default Changelist" comment="" />
+    <list default="true" id="6efcb896-75e1-4547-ae30-94da7d4f44e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_24_snake_game_updated/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_24_snake_game_updated/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_39_flight_deals/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day_39_flight_deals/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_39_flight_deals/flight_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day_39_flight_deals/flight_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_39_flight_deals/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day_39_flight_deals/flight_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_39_flight_deals/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day_39_flight_deals/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1yBYeq0OjNZc1r1MSfAmzmcILpo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">

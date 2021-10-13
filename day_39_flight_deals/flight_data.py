@@ -1,18 +1,11 @@
-import requests
+"""    This class is responsible for structuring the flight data."""
 
-flight_endpoint = ""
-
-flight_params = {
-    "query": exercise_text,
-    "gender": GENDER,
-    "weight_kg": WEIGHT_KG,
-    "height_cm": HEIGHT_CM,
-    "age": AGE
-}
-
-headers = {
-    
-}
 class FlightData:
-    #This class is responsible for structuring the flight data.
-    pass
+    def __init__(self, price, origin_city, origin_airport, destination_city, destination_airport, out_date, return_date):
+        self.price = price
+        self.origin_city = origin_city
+        self.origin_airport = origin_airport
+        self.destination_city = destination_city
+        self.destination_airport = destination_airport
+        self.out_date = out_date
+        self.return_date = return_date
