@@ -36,3 +36,10 @@ class DataManager:
                 json=new_data,
                 headers=SHEET_HEADER)
             pprint(response.text)
+
+    def get_customer_emails(self):
+        customer_endpoint = SHEET_ENDPOINT
+        response = requests.get(customer_endpoint)
+        data = response.json()
+        self.customer_data = data["users"]
+        return self.customer_data
